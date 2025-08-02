@@ -1,7 +1,10 @@
-package com.negocio.models;
+/**
+ * Clase: Cliente
+ * Función: Representa a un cliente con sus datos básicos.
+ * Autor: Jeferson Oslee Cermeño Pineda
+ */
 
-import java.util.List;
-import java.util.ArrayList;
+package com.negocio.models;
 
 public class Cliente {
     private int id;
